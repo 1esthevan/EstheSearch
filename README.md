@@ -11,6 +11,9 @@ A minimal front-end project that simply works.
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
 </p>
+
+
+
 ## About
 
 Tired of browsers pushing ads, irrelevant news, pop-ups, and banners?  
