@@ -1,10 +1,16 @@
 <h1 align="center">EsthevanSearch</h1>
 
+<img src="https://i.imgur.com/Wx3UXmB.png" alt="InstaPenguin Screenshot">
+
 <p align="center">
 A clean homepage. No distractions. No tracking. No clutter.<br>
 A minimal front-end project that simply works.
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
+</p>
 ## About
 
 Tired of browsers pushing ads, irrelevant news, pop-ups, and banners?  
