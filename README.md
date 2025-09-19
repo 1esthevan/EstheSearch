@@ -1,6 +1,6 @@
 <h1 align="center">EsthevanSearch</h1>
 
-<img src="https://i.imgur.com/Wx3UXmB.png" alt="InstaPenguin Screenshot">
+<img src="preview/screen.png" alt="Screenshot">
 
 <p align="center">
 A clean homepage. No distractions. No tracking. No clutter.<br>
