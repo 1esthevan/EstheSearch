@@ -1,56 +1,48 @@
-<h1 align="center">🔎 EsthevanSearch</h1>
+<h1 align="center">EsthevanSearch</h1>
 
 <p align="center">
-Uma homepage limpa. Sem distrações. Sem rastreamento. Sem firula.<br>
-Um projeto <b>front-end minimalista</b> que simplesmente funciona.
+A clean homepage. No distractions. No tracking. No clutter.<br>
+A minimal front-end project that simply works.
 </p>
 
----
+## About
 
-## 📌 Sobre
+Tired of browsers pushing ads, irrelevant news, pop-ups, and banners?  
+I was too. So I built EsthevanSearch.  
 
-Cansado de abrir seu navegador que te empurra **ads**, notícias irrelevantes, pop-ups e banners?  
-Eu também. Então resolvi criar o **EsthevanSearch**.
+A simple startpage that shows only what matters:  
+- Time  
+- Weather  
+- Search  
+- Useful shortcuts  
 
-Uma página inicial simples, que mostra só o que importa:  
-- Hora  
-- Clima  
-- Busca  
-- Atalhos úteis  
+Fast, lightweight, and distraction-free.
 
-Rápida, útil e leve. Nada além disso.
-
----
-
-## 🚀 Tecnologias
+## Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" />
 </p>
 
-- **React + TypeScript**  
-- **Tailwind CSS**  
-- **Vite**  
-- **OpenWeather API**
+- React + TypeScript  
+- Tailwind CSS  
+- Vite  
+- OpenWeather API  
 
-Sem dependências desnecessárias.  
-Sem plugins mágicos.  
-Sem scripts obscuros.  
+No unnecessary dependencies.  
+No shady scripts.  
+No bloated plugins.  
 
----
+## Features
 
-## ⚡ Funcionalidades
+- Current time  
+- Real-time weather  
+- Functional search bar  
+- Useful shortcuts  
+- Responsive and lightweight layout  
 
-- Hora atual  
-- Clima em tempo real  
-- Barra de busca funcional  
-- Atalhos para ferramentas úteis  
-- Layout responsivo e leve  
+## License
 
----
-
-## 📄 Licença
-
-MIT.  
-Use, modifique, ignore.  
-Só não tente deixar feio.
+MIT  
+Use it, modify it, ignore it.  
+Just don’t make it ugly.
