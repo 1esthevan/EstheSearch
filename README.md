@@ -39,6 +39,11 @@ No unnecessary dependencies.
 No shady scripts.  
 No bloated plugins.  
 
+<img src="preview/screen1.png" alt="Screenshot">
+<img src="preview/screen2.png" alt="Screenshot">
+
+
+
 ## Features
 
 - Current time  
